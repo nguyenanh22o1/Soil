@@ -1,5 +1,4 @@
-### s3926822-s3906116
-####  By Nguyen Anh Hoang & Amy Phung
+
 
 ## Table of Contents
 - [Installation](#installation)
