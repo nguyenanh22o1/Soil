@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.mainContainer {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 85vh;
+  padding: 2rem;
+}
+
+.my-account-header {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+.card-header {
+  max-width: 50vw;
+  width: 100%;
+  border: none;
+}
+.card {
+  max-width: 50vw;
+  width: 100%;
+}
+.delete-icon {
+  margin-right: 1.5rem;
+  font-size: 1.5rem;
+  color: rgb(80, 80, 80);
+  cursor: pointer;
+}
+
+.delete-icon:hover {
+  color: #dc3545;
+}
+
+.your-details {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+.personal-contact {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+.personal-detail {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+.personal-detail-thin {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.list-group {
+  align-items: center;
+  margin-left: 1.35rem;
+  margin-right: 1.15rem;
+  margin-top: 1rem;
+  /* justify-content: center; */
+}
+.form-control-health {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+.form-group {
+  padding-right: 2.5rem;
+  padding-left: 1.5rem;
+}
+.form-control {
+  min-height: 35px;
+}
+.list-group-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 130px;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+  margin-bottom: 1rem;
+  margin-right: 0.5rem;
+  border-radius: 5px;
+  padding: 0.75rem 1.25rem;
+}
+
+.list-group-item .icon {
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.list-group-item:not(.active) {
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+.list-group-item:hover:not(.active) {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+.list-group-item.active {
+  background-color: #f0f0f0;
+  color: #000000;
+  border-left: 6px solid #ac4200;
+  border-radius: 5px;
+}
+
+.border-right {
+  position: relative;
+  /* padding-right: 20px; */
+}
+
+.border-right::before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0px;
+  bottom: 50px;
+  border-right: 1px solid #dee2e6;
+}
+
+/* edit button */
+.edit-link {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  color: red;
+  text-decoration: none;
+}
+.cancel-link {
+  color: #1d1d1f;
+  text-decoration: none;
+}
+
+.save-link {
+  color: red;
+  text-decoration: none;
+}
+
+.edit-link,
+.cancel-link,
+.save-link {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.edit-link:hover,
+.cancel-link:hover,
+.save-link:hover {
+  text-decoration: underline;
+}
+
+.backgroundRectangle {
+  background-color: #fff6ea;
+  height: 45vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}

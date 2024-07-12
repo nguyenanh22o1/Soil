@@ -1,0 +1,158 @@
+.custom-navbar {
+  background-color: #f9dfbc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 3rem;
+  height: 4.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.brand-name {
+  color: #6a481b;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+
+.nav-links ul {
+  display: flex;
+  padding-left: 10;
+  flex-grow: 1;
+}
+
+.nav-links li {
+  display: flex;
+  padding: 10px;
+  transform: translateY(10px);
+}
+
+.nav-links a {
+  color: black;
+  text-decoration: none;
+}
+
+.search-form {
+  display: flex;
+  flex-grow: 1;
+  margin: 0 1rem;
+}
+
+.search-bar {
+  flex-grow: 1;
+  border: transparent;
+  border-radius: 20px;
+  padding: 0.5rem;
+  padding-left: 2rem;
+}
+
+.cart-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+  position: relative;
+}
+
+.login-signup {
+  position: relative;
+}
+
+.login-signup-link {
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+.user-name-button {
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: black;
+  background: none;
+}
+
+.person-logo {
+  margin-right: 10px;
+  color: black;
+}
+
+.dropdown-menu {
+  display: block;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 0.25rem;
+  width: 200px;
+  z-index: 1000;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.user-name-button {
+  background: none;
+  position: static;
+}
+
+.cart-item-count {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 0.75rem;
+}
+
+.cart-dropdown {
+  display: block;
+  position: fixed;
+  top: 0;
+  right: 0;
+  transform: translateX(100%);
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 0.25rem;
+  width: 400px;
+  height: 100%;
+  z-index: 1050;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease-out;
+}
+
+.cart-sidebar-visible {
+  transform: translateX(0);
+}
+
+.cart-sidebar-closing {
+  transform: translateX(100%);
+  transition: right 0.3s ease-out;
+}
+
+.custom-navbar.scrolled {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.custom-navbar .cart-button:focus + .cart-dropdown,
+.custom-navbar .cart-button:focus-within + .cart-dropdown,
+.custom-navbar .cart-button:active + .cart-dropdown {
+  display: block;
+}

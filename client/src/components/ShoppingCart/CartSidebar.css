@@ -1,0 +1,144 @@
+.cart-sidebar {
+  padding: 1rem;
+  background: #fff;
+  margin-top: 1px;
+  max-height: 860px;
+  overflow-y: auto;
+}
+
+.cart-product-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1rem;
+}
+
+.cart-product-image {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+
+.cart-product-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.cart-product-title {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.cart-product-price-quantity {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.cart-product-price {
+  margin-right: 8.1rem;
+  font-size: 1rem;
+  padding-left: 1px;
+}
+
+.cart-product-quantity {
+  display: flex;
+  align-items: center;
+}
+
+.cart-quantity-button {
+  border: none;
+  background-color: #e0783b;
+  padding: 5px 10px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.cart-quantity-button:hover {
+  background-color: #cc6e37;
+}
+
+.cart-quantity-input {
+  width: 40px;
+  text-align: center;
+  border: 1px solid #ced4da;
+  padding: 5px;
+}
+
+.cart-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.cart-title-clear {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 1rem;
+  background: #fff;
+  border-bottom: 1px solid #ced4da;
+}
+
+.cart-clear {
+  border: none;
+  background-color: #e0783b;
+  padding: 5px 10px;
+  margin: 0 5px;
+  cursor: pointer;
+  color: white;
+}
+
+.cart-checkout-container {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 1rem;
+  background: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-top: 1px solid #ced4da;
+  bottom: 0;
+}
+
+.cart-checkout {
+  border: none;
+  background-color: #e0783b;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.cart-checkout:hover {
+  background-color: #cc6e37;
+}
+
+.notification-checkout {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #f39898;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  z-index: 1000;
+  animation: fadeIn 0.5s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: block;
+  opacity: 1;
+  transition: opacity 0.5s ease-out;
+}
+
+.notification-checkout.fade-in {
+  opacity: 1;
+}
+
+.notification-checkout.fade-out {
+  opacity: 0;
+}

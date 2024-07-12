@@ -1,0 +1,20 @@
+.meal-filters .filter-button {
+  margin: 0.25rem;
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  transition: background-color 0.3s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  border-radius: 20px;
+}
+
+.meal-filters .filter-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.diet-planner-form {
+  max-width: 945px;
+}

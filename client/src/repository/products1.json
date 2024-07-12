@@ -1,0 +1,224 @@
+[
+    {
+        "id": 1,
+        "name": "Apples",
+        "salePrice": "$1.99",
+        "originalPrice": "$2.49",
+        "imageSrc": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 4,
+        "description": "Crisp and sweet, perfect for snacking and baking.",
+        "cultivation": "Site Selection & Preparation: Choose a location that receives full sun, with at least 6 hours of direct sunlight daily. Ensure the soil is well-draining and rich in organic matter. Test the soil pH, which should ideally be between 6.0 and 7.0.\\nPlanting: Plant dwarf apple trees in the spring or fall. Dig a hole twice as wide and slightly deeper than the root ball. Place the tree in the hole so that the root collar is just above ground level, fill with soil, and water thoroughly.\\nWatering & Mulching: Water the trees regularly, especially during dry spells, to keep the soil moist but not waterlogged. Apply mulch around the base to retain moisture and suppress weeds, keeping mulch a few inches away from the trunk.\\nPruning & Care: Prune in late winter while the tree is dormant. Remove any dead, damaged, or overcrowded branches to encourage growth and fruit production. Thin the fruits in early summer to reduce stress on the limbs and improve fruit size."
+    },
+    {
+        "id": 2,
+        "name": "Bananas",
+        "salePrice": "$0.99",
+        "originalPrice": "$1.29",
+        "imageSrc": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 5,
+        "description": "Rich in potassium and perfect for smoothies or as a healthy snack.",
+        "cultivation": "Choosing the Right Variety: Opt for a variety that suits your climate, particularly if you live in a less tropical region. Dwarf varieties are ideal for smaller spaces or containers.\\nPlanting: Bananas need rich, fast-draining soil, plenty of sunlight, and protection from wind. Plant the suckers or small plants in a hole big enough to accommodate the extensive root system, and ensure the soil is constantly moist.\\nWater and Fertilizer: Water deeply and regularly, as bananas are very thirsty plants. Use a balanced fertilizer monthly to ensure robust growth.\\nHarvesting: Bananas are ready to harvest when they start turning yellow from green. The entire stalk should be cut from the plant, and individual bananas can be plucked as they ripen."
+
+    },
+    {
+        "id": 3,
+        "name": "Carrots",
+        "salePrice": "$2.99",
+        "originalPrice": "$3.49",
+        "imageSrc": "https://images.unsplash.com/photo-1590868309235-ea34bed7bd7f?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4,
+        "description": "Crunchy and sweet, great for salads, soups, and snacking.",
+        "cultivation": "Soil Preparation: Carrots thrive in loose, sandy loam soil. Till the garden bed to a depth of 12 inches and remove any stones or debris to prevent stunted growth.\\nSowing Seeds: Sow carrot seeds directly into the soil, ¼ inch deep, and about 1 to 2 inches apart. Ensure the soil stays moist until germination.\\nThinning & Maintenance: Once the carrots sprout and reach a few inches in height, thin them so they're about 3 inches apart. This ensures there's enough room for the carrots to grow in size.\\nWatering & Harvesting: Keep the soil consistently moist but not waterlogged. Carrots are ready to harvest when they've reached about ¾ of an inch in diameter at the top, but you can check size by gently uncovering the top part of the carrot."
+    },
+    {
+        "id": 4,
+        "name": "Tomatoes",
+        "salePrice": "$1.50",
+        "originalPrice": "$2.00",
+        "imageSrc": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4.5,
+        "description": "Juicy and flavorful, ideal for salads, sauces, and sandwiches.",
+        "cultivation": "Starting Seeds Indoors: Start seeds indoors about 6 to 8 weeks before the last frost date. Use small pots with starter mix, placing them in a warm spot with lots of light.\\nTransplanting: Transplant outdoors after the danger of frost has passed and temperatures are consistently warm. Choose a sunny spot and plant tomatoes deeply to encourage root growth along the stem.\\nSupport and Watering: Install cages or stakes at planting time to support the plants as they grow. Water regularly to keep the soil evenly moist, particularly during hot weather.\\nPruning and Maintenance: Prune any non-fruit-bearing branches to encourage energy into fruit production. Monitor for pests and diseases, and use mulch to maintain soil moisture and temperature."
+
+    },
+    {
+        "id": 5,
+        "name": "Oranges",
+        "salePrice": "$3.00",
+        "originalPrice": "$3.50",
+        "imageSrc": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 4.5,
+        "description": "Rich in Vitamin C, perfect for juicing or a fresh snack.",
+        "cultivation": "Soil and Site: Oranges prefer well-drained soil with a pH between 6.0 and 7.5. Choose a sunny site with at least 6-8 hours of sunlight per day. Protection from strong winds is advisable.\\nPlanting: If planting in the ground, ensure the hole is twice as wide as the root ball and plant at the same depth it was in the pot. For container planting, use a large pot with sufficient drainage holes.\\nWatering: Water deeply once a week, more frequently in hot, dry weather. Avoid over-watering, as oranges do not like soggy soil.\\nFeeding: Fertilize with a balanced citrus fertilizer according to package instructions, usually every few months during the growing season.\\nPruning: Light pruning can be done to shape the tree and remove dead or diseased wood. Heavy pruning should be avoided as it can reduce fruit production."
+    },
+    {
+        "id": 6,
+        "name": "Spinach",
+        "salePrice": "$2.00",
+        "originalPrice": "$2.50",
+        "imageSrc": "https://images.unsplash.com/photo-1578283326173-fbb0f83b59b2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4,
+        "description": "Leafy and nutrient-rich, ideal for salads and cooking.",
+        "cultivation": "Soil Preparation: Spinach grows best in rich, well-draining soil with a pH of 6.5 to 7.0. Work in plenty of compost or aged manure before planting to enrich the soil.\\nPlanting: Direct sow seeds ½ inch deep, spacing them about 2-3 inches apart in rows or scattered in beds. Plant in early spring or fall for a cool season harvest.\\nWatering: Keep the soil consistently moist but not waterlogged. Spinach roots are shallow, so a mulch can help retain soil moisture and control weeds.\\nFertilizing: Feed with a high-nitrogen organic fertilizer after planting and midseason to encourage lush leaf growth.\\nHarvesting: Harvest leaves from the outside of the plant when they reach your desired size, allowing the inner leaves to continue growing."
+    },
+    {
+        "id": 7,
+        "name": "Broccoli",
+        "salePrice": "$2.50",
+        "originalPrice": "$3.00",
+        "imageSrc": "https://images.unsplash.com/photo-1583663848850-46af132dc08e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4.5,
+        "description": "Great for steaming or stir-fries, packed with vitamins.",
+        "cultivation": "Soil Preparation: Spinach grows best in rich, well-draining soil with a pH of 6.5 to 7.0. Work in plenty of compost or aged manure before planting to enrich the soil.\\nPlanting: Direct sow seeds ½ inch deep, spacing them about 2-3 inches apart in rows or scattered in beds. Plant in early spring or fall for a cool season harvest.\\nWatering: Keep the soil consistently moist but not waterlogged. Spinach roots are shallow, so a mulch can help retain soil moisture and control weeds.\\nFertilizing: Feed with a high-nitrogen organic fertilizer after planting and midseason to encourage lush leaf growth.\\nHarvesting: Harvest leaves from the outside of the plant when they reach your desired size, allowing the inner leaves to continue growing."
+    },
+    {
+        "id": 8,
+        "name": "Grapes",
+        "salePrice": "$4.00",
+        "originalPrice": "$4.50",
+        "imageSrc": "https://images.unsplash.com/photo-1637715924886-cbe4485f90b9?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 5,
+        "description": "Sweet and versatile, perfect for eating fresh or making wine.",
+        "cultivation": "Site Selection: Choose a sunny spot for grapevines, as they need full sun to produce fruit. Avoid low-lying areas prone to frost.\\nSoil Preparation: Ensure well-draining soil with a pH of 6.0-6.5. Amend with compost before planting.\\nPlanting: Plant in early spring, spacing vines 6-10 feet apart. Trellising is necessary to support the growing vines.\\nWatering: Keep soil consistently moist during the first year. Reduce watering as vines establish.\\nPruning: Prune vines annually during the dormant season to promote healthy growth and fruit production."
+    },
+    {
+        "id": 9,
+        "name": "Mangoes",
+        "salePrice": "$1.99",
+        "originalPrice": "$2.49",
+        "imageSrc": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 5,
+        "description": "Sweet and tropical, excellent for smoothies or desserts.",
+        "cultivation": "Climate: Mangoes need a tropical or subtropical climate to thrive. Protect from cold temperatures.\\nPlanting: Choose a well-drained site with full sun exposure. Space trees 30-50 feet apart.\\nSoil Requirements: Mangoes prefer rich, deep loamy soil with a pH between 5.5 and 7.5.\\nWatering: Water young trees twice a week. Once established, water deeply every two weeks during dry periods.\\nFertilizing: Use a balanced fertilizer once every 2-3 months during the first year. Mature trees require less frequent feeding."
+    },
+    {
+        "id": 10,
+        "name": "Capsicum",
+        "salePrice": "$3.49",
+        "originalPrice": "$3.99",
+        "imageSrc": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4.5,
+        "description": "Colorful and crisp, enhances the flavor of many dishes.",
+        "cultivation": "Climate: Mangoes need a tropical or subtropical climate to thrive. Protect from cold temperatures.\\nPlanting: Choose a well-drained site with full sun exposure. Space trees 30-50 feet apart.\\nSoil Requirements: Mangoes prefer rich, deep loamy soil with a pH between 5.5 and 7.5.\\nWatering: Water young trees twice a week. Once established, water deeply every two weeks during dry periods.\\nFertilizing: Use a balanced fertilizer once every 2-3 months during the first year. Mature trees require less frequent feeding."
+    },
+    {
+        "id": 11,
+        "name": "Peaches",
+        "salePrice": "$0.00",
+        "originalPrice": "$3.99",
+        "imageSrc": "https://images.unsplash.com/photo-1438274754346-45322cac87e4?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 4,
+        "description": "Juicy and sweet, perfect for pies and fresh eating.",
+        "cultivation": "Climate: Peaches need a warm climate and a well-draining location with plenty of sunlight.\\nSoil: Prefer sandy loam soil with a pH of 6.0-7.0. Enrich the soil with compost before planting.\\nPlanting: Space trees about 15-20 feet apart. Plant bare-root trees in early spring.\\nWatering: Provide at least an inch of water per week. Increase watering during fruiting season.\\nPruning: Prune annually during winter to encourage the growth of new fruit-bearing branches."
+    },
+    {
+        "id": 12,
+        "name": "Cucumbers",
+        "salePrice": "$0.00",
+        "originalPrice": "$1.99",
+        "imageSrc": "https://images.unsplash.com/photo-1611048661702-7b55eed346b4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4,
+        "description": "Crisp and refreshing, commonly used in salads and sandwiches.",
+        "cultivation": "Site Selection: Choose a sunny, sheltered site with fertile, well-drained soil.\\nSoil: Use soil rich in organic matter. Cucumbers prefer a soil pH of 6.0-7.0.\\nPlanting: Sow seeds 1 inch deep in rows, spacing them 18 to 36 inches apart. For trellised cucumbers, space plants 8 to 12 inches apart.\\nWatering: Provide one gallon of water per square foot per week. Keep the soil consistently moist but not waterlogged.\\nFertilizing: Feed with a nitrogen-rich fertilizer after planting, then switch to a phosphorous and potassium-rich fertilizer after blooming begins."
+    },
+    {
+        "id": 13,
+        "name": "Cherries",
+        "salePrice": "$0.00",
+        "originalPrice": "$4.99",
+        "imageSrc": "https://images.unsplash.com/photo-1520236060906-9c5ed525b025?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 4.5,
+        "description": "Sweet or tart, perfect for snacking and baking.",
+        "cultivation": "Climate: Sweet cherries require a cold period in winter, while sour cherries are more tolerant of warmer climates.\\nSoil: Plant in deep, well-drained soil with a pH of 6.5-6.7.\\nPlanting: Space cherry trees 20-25 feet apart. Plant in a sunny spot with good air circulation to prevent disease.\\nWatering: Water young trees deeply, once or twice a week, depending on the weather. Reduce watering as trees mature.\\nPruning: Prune cherry trees annually in late winter to early spring to maintain an open canopy."
+    },
+    {
+        "id": 14,
+        "name": "Zucchini",
+        "salePrice": "$0.00",
+        "originalPrice": "$1.49",
+        "imageSrc": "https://images.unsplash.com/photo-1563252722-6434563a985d?q=80&w=994&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4,
+        "description": "Mild and versatile, great for grilling, sautéing, or baking.",
+        "cultivation": "Site Selection: Choose a sunny spot in the garden with fertile, well-drained soil.\\nSoil Preparation: Work in plenty of organic matter such as compost or aged manure before planting. Zucchini prefers soil with a pH between 6.0 and 7.5.\\nPlanting: Sow seeds directly in the ground after the danger of frost has passed, planting them 1 inch deep. Space plants about 2 to 3 feet apart.\\nWatering: Provide consistent moisture and water deeply, especially during fruit set and growth.\\nHarvesting: Harvest zucchini when they are small to medium-sized for best flavor and texture."
+    },
+    {
+        "id": 15,
+        "name": "Blueberries",
+        "salePrice": "$0.00",
+        "originalPrice": "$4.50",
+        "imageSrc": "https://images.unsplash.com/photo-1597774681009-f8679cf72348?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 5,
+        "description": "Sweet and nutritious, excellent for fresh eating or in baked goods.",
+        "cultivation": "Soil Requirements: Blueberries require acidic soil with a pH between 4.5 and 5.5. Amend soil with sulfur if necessary to lower the pH.\\nPlanting: Plant in early spring. Space bushes 4 to 5 feet apart in rows 8 to 10 feet apart.\\nWatering: Keep soil consistently moist but not soggy. Mulch with pine bark or needles to help retain moisture and maintain soil acidity.\\nFertilizing: Use a fertilizer designed for acid-loving plants, applied in early spring and again in late spring for optimal growth.\\nPruning: Prune bushes in late winter to remove dead or weak branches and to open up the plant to sunlight."
+    },
+    {
+        "id": 16,
+        "name": "Kale",
+        "salePrice": "$0.00",
+        "originalPrice": "$2.99",
+        "imageSrc": "https://plus.unsplash.com/premium_photo-1680344513252-75de1cf16d2f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4,
+        "description": "Nutrient-rich and hearty, perfect for salads and smoothies.",
+        "cultivation": "Site Selection: Choose a location with full sun to partial shade and well-draining soil.\\nSoil Preparation: Enrich the soil with compost or well-rotted manure, maintaining a soil pH between 6.0 and 7.0.\\nPlanting: Sow seeds ¼ to ½ inch deep, spacing them about 8 to 12 inches apart. You can begin sowing about six weeks before the last expected frost.\\nWatering: Water plants regularly, providing about 1 to 1.5 inches per week. Avoid overhead watering to prevent leaf diseases.\\nHarvesting: Begin harvesting when leaves are about the size of your hand, picking the outer leaves first."
+    },
+    {
+        "id": 17,
+        "name": "Pears",
+        "salePrice": "$0.00",
+        "originalPrice": "$3.49",
+        "imageSrc": "https://images.unsplash.com/photo-1631160299919-6a175aa6d189?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 4,
+        "description": "Soft and sweet, ideal for snacking or baking.",
+        "cultivation": "Site Selection: Choose a location with full sun and well-draining soil. Pears do not do well in locations that are prone to late frost.\\nSoil Preparation: Pears prefer slightly acidic to neutral soil, pH 6.0-7.0. Enrich the soil with compost before planting.\\nPlanting: Space pear trees about 20 feet apart. Plant bare-root trees in late winter or early spring.\\nWatering: Water newly planted trees thoroughly, then regularly during dry periods. Do not over-water, as pears are sensitive to waterlogged soils.\\nPruning: Prune yearly in winter to maintain an open canopy, which allows sunlight to reach the center of the tree."
+    },
+    {
+        "id": 18,
+        "name": "Radishes",
+        "salePrice": "$0.00",
+        "originalPrice": "$0.99",
+        "imageSrc": "https://images.unsplash.com/photo-1576013496040-0827c508975a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4,
+        "description": "Crunchy and spicy, grows quickly and adds a kick to salads.",
+        "cultivation": "Soil Preparation: Radishes prefer loose, well-drained soil. Remove any rocks or hard clumps that may obstruct growth.\\nSowing: Plant seeds directly in the garden, about half an inch deep and one inch apart. Radishes can be planted in both spring and fall.\\nWatering: Provide even moisture and do not let the soil dry out, but avoid overwatering which can dilute flavor and cause splitting.\\nHarvesting: Radishes mature quickly, often ready to harvest within three to four weeks after sowing. Harvest as soon as they are of usable size."
+    },
+    {
+        "id": 19,
+        "name": "Kiwi",
+        "salePrice": "$0.00",
+        "originalPrice": "$3.99",
+        "imageSrc": "https://plus.unsplash.com/premium_photo-1674382739482-5d36b98d653a?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 4.5,
+        "description": "Tangy and sweet, packed with vitamin C and great for snacking.",
+        "cultivation": "Site Selection: Kiwis require a sunny position, sheltered from strong winds. They are climbing plants that need support like a trellis or fence.\\nSoil Requirements: Prefers well-drained, fertile soil with a pH of 5.5 to 6.5.\\nPlanting: Plant kiwi plants in late winter or early spring. If planting multiple, space them about 10 feet apart.\\nWatering: Water regularly, especially during dry spells. Kiwis have shallow roots and require consistent moisture.\\nFertilizing: Apply a balanced fertilizer during the growing season. Do not over-fertilize, as this can lead to more foliage at the expense of fruit."
+    },
+    {
+        "id": 20,
+        "name": "Eggplant",
+        "salePrice": "$0.00",
+        "originalPrice": "$2.99",
+        "imageSrc": "https://images.unsplash.com/photo-1605197378540-10ebaf6999e5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 4,
+        "description": "Rich and versatile, excellent for grilling, frying, or baking.",
+        "cultivation": "Site Selection: Select a location with full sun and well-draining soil. Eggplants require a warm growing environment.\\nSoil Preparation: Enrich the soil with compost or aged manure, aiming for a pH between 5.5 and 6.5.\\nPlanting: Start seeds indoors 8 to 9 weeks before the last frost date. Transplant outdoors when temperatures consistently exceed 70°F (21°C) during the day. Space plants 18 to 24 inches apart in rows 30 to 36 inches apart.\\nWatering: Keep the soil consistently moist but not soggy. Mulch to retain soil moisture and regulate temperature.\\nFertilizing: Fertilize with a balanced nutrient solution every two weeks during the growing season.\\nHarvesting: Harvest eggplants when the skin is shiny and thumb pressure does not leave an indentation. Use pruning shears to cut the fruit from the plant."
+    }
+]

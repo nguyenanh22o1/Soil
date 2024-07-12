@@ -1,0 +1,27 @@
+.meal-card {
+  width: 100%;
+  max-width: 260px;
+  max-height: 440px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.meal-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.meal-card-image-container {
+  height: 200px;
+  overflow: hidden;
+}
+
+.meal-card .p-2 {
+  padding: 0.5rem !important;
+}
+
+.meal-card p {
+  margin-bottom: 0.5rem !important;
+}

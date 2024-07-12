@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Apples",
+        "salePrice": "$1.99",
+        "originalPrice": "$2.49",
+        "imageSrc": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Crisp and sweet, perfect for snacking and baking."
+    },
+    {
+        "name": "Bananas",
+        "salePrice": "$0.99",
+        "originalPrice": "$1.29",
+        "imageSrc": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Rich in potassium and perfect for smoothies or as a healthy snack."
+    },
+    {
+        "name": "Carrots",
+        "salePrice": "$2.99",
+        "originalPrice": "$3.49",
+        "imageSrc": "https://images.unsplash.com/photo-1590868309235-ea34bed7bd7f?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Crunchy and sweet, great for salads, soups, and snacking."
+    },
+    {
+        "name": "Tomatoes",
+        "salePrice": "$1.50",
+        "originalPrice": "$2.00",
+        "imageSrc": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Juicy and flavorful, ideal for salads, sauces, and sandwiches."
+    },
+    {
+        "name": "Oranges",
+        "salePrice": "$3.00",
+        "originalPrice": "$3.50",
+        "imageSrc": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Rich in Vitamin C, perfect for juicing or a fresh snack."
+    },
+    {
+        "name": "Spinach",
+        "salePrice": "$2.00",
+        "originalPrice": "$2.50",
+        "imageSrc": "https://images.unsplash.com/photo-1578283326173-fbb0f83b59b2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Leafy and nutrient-rich, ideal for salads and cooking."
+    },
+    {
+        "name": "Broccoli",
+        "salePrice": "$2.50",
+        "originalPrice": "$3.00",
+        "imageSrc": "https://images.unsplash.com/photo-1583663848850-46af132dc08e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Great for steaming or stir-fries, packed with vitamins."
+    },
+    {
+        "name": "Grapes",
+        "salePrice": "$4.00",
+        "originalPrice": "$4.50",
+        "imageSrc": "https://images.unsplash.com/photo-1637715924886-cbe4485f90b9?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Sweet and versatile, perfect for eating fresh or making wine."
+    },
+    {
+        "name": "Mangoes",
+        "salePrice": "$1.99",
+        "originalPrice": "$2.49",
+        "imageSrc": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Sweet and tropical, excellent for smoothies or desserts."
+    },
+    {
+        "name": "Capsicum",
+        "salePrice": "$3.49",
+        "originalPrice": "$3.99",
+        "imageSrc": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Colorful and crisp, enhances the flavor of many dishes."
+    },
+    {
+        "name": "Peaches",
+        "salePrice": "$0.00",
+        "originalPrice": "$3.99",
+        "imageSrc": "https://images.unsplash.com/photo-1438274754346-45322cac87e4?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Juicy and sweet, perfect for pies and fresh eating."
+    },
+    {
+        "name": "Cucumbers",
+        "salePrice": "$0.00",
+        "originalPrice": "$1.99",
+        "imageSrc": "https://images.unsplash.com/photo-1611048661702-7b55eed346b4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Crisp and refreshing, commonly used in salads and sandwiches."
+    },
+    {
+        "name": "Cherries",
+        "salePrice": "$0.00",
+        "originalPrice": "$4.99",
+        "imageSrc": "https://images.unsplash.com/photo-1520236060906-9c5ed525b025?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Sweet or tart, perfect for snacking and baking."
+    },
+    {
+        "name": "Zucchini",
+        "salePrice": "$0.00",
+        "originalPrice": "$1.49",
+        "imageSrc": "https://images.unsplash.com/photo-1563252722-6434563a985d?q=80&w=994&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Mild and versatile, great for grilling, sautéing, or baking."
+    },
+    {
+        "name": "Blueberries",
+        "salePrice": "$0.00",
+        "originalPrice": "$4.50",
+        "imageSrc": "https://images.unsplash.com/photo-1597774681009-f8679cf72348?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Sweet and nutritious, excellent for fresh eating or in baked goods."
+    },
+    {
+        "name": "Kale",
+        "salePrice": "$0.00",
+        "originalPrice": "$2.99",
+        "imageSrc": "https://plus.unsplash.com/premium_photo-1680344513252-75de1cf16d2f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Nutrient-rich and hearty, perfect for salads and smoothies."
+    },
+    {
+        "name": "Pears",
+        "salePrice": "$0.00",
+        "originalPrice": "$3.49",
+        "imageSrc": "https://images.unsplash.com/photo-1631160299919-6a175aa6d189?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Soft and sweet, ideal for snacking or baking."
+    },
+    {
+        "name": "Radishes",
+        "salePrice": "$0.00",
+        "originalPrice": "$0.99",
+        "imageSrc": "https://images.unsplash.com/photo-1576013496040-0827c508975a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Crunchy and spicy, grows quickly and adds a kick to salads."
+    },
+    {
+        "name": "Kiwi",
+        "salePrice": "$0.00",
+        "originalPrice": "$3.99",
+        "imageSrc": "https://plus.unsplash.com/premium_photo-1674382739482-5d36b98d653a?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Fruits",
+        "rating": 0,
+        "description": "Tangy and sweet, packed with vitamin C and great for snacking."
+    },
+    {
+        "name": "Eggplant",
+        "salePrice": "$0.00",
+        "originalPrice": "$2.99",
+        "imageSrc": "https://images.unsplash.com/photo-1605197378540-10ebaf6999e5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Vegetables",
+        "rating": 0,
+        "description": "Rich and versatile, excellent for grilling, frying, or baking."
+    }
+]

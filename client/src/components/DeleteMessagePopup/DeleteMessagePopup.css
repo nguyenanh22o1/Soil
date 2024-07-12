@@ -1,0 +1,84 @@
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.middle-pls {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  align-items: center;
+  justify-content: center;
+  min-height: 30vh;
+  min-width: 30vw;
+}
+
+.popup-content {
+  margin-top: 10vh;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  margin-bottom: 3vh;
+}
+
+.popup-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 2rem;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.popup-text {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.popup-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.popup-close-button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  border: none;
+  background-color: #ebebeb;
+  color: #ca5b16;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.popup-confirm-button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  border: none;
+  background-color: #ca5b16;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.popup-close-button:hover {
+  background-color: #dfdede;
+}
+
+.popup-confirm-button:hover {
+  background-color: #b65618;
+}
+
+.popup-trash-icon {
+  font-size: 4rem;
+  color: #ff0000;
+  margin-bottom: 1rem;
+}

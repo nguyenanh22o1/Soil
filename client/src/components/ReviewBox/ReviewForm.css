@@ -1,0 +1,33 @@
+.review-form {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background-color: #fff;
+}
+
+.review-form .form-group {
+  margin-bottom: 1rem;
+}
+
+.ratingReview {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.star {
+  color: grey;
+  cursor: pointer;
+}
+
+.filled-star {
+  color: gold;
+}
+
+.empty-star {
+  color: grey;
+}
+
+.alert {
+  margin-bottom: 1rem;
+}

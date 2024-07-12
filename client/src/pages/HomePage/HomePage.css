@@ -1,0 +1,176 @@
+.banner-image {
+  position: relative;
+}
+
+.banner-image,
+.col-md-5 {
+  height: 100%;
+}
+
+.banner-image .img-fluid,
+.col-md-5 .img-fluid {
+  width: 100%;
+  height: 90%;
+  object-fit: cover;
+}
+
+@keyframes showTopText {
+  0% {
+    transform: translate3d(0, 100%, 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes showBottomText {
+  0% {
+    transform: translate3d(0, -100%, 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
+.animated-title {
+  color: #000000;
+  font-family: Roboto, Arial, sans-serif;
+  height: 50vmin;
+  left: 20%;
+  position: absolute;
+  bottom: 40%;
+  width: 50vmin;
+}
+
+.animated-title > div {
+  height: 50%;
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+}
+
+.animated-title > div div {
+  font-size: 6vmin;
+  /* padding: 1vmin 0; */
+  position: absolute;
+}
+
+.animated-title > div.text-top {
+  border-bottom: 0.7vmin solid #441a00;
+  top: 0;
+}
+
+.animated-title > div.text-top div {
+  animation: showTopText 1s;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+  bottom: 0;
+  transform: translate(0, 100%);
+}
+
+.animated-title > div.text-top div span:first-child {
+  font-weight: bold;
+  color: #43ad4c;
+}
+
+.animated-title > div.text-bottom {
+  bottom: 0;
+}
+
+.animated-title > div.text-bottom div {
+  animation: showBottomText 1s;
+  animation-delay: 1.2s;
+  animation-fill-mode: forwards;
+  top: 0;
+  transform: translate(0, -100%);
+}
+
+.highlighted-text-bottom {
+  font-weight: bold;
+  color: #ac4200; /* Hearth color */
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.fade-in-text {
+  font-family: Arial;
+  font-size: 2vmin;
+  animation: fadeIn 2.5s;
+  animation-delay: 1.8s;
+  animation-fill-mode: forwards;
+  position: absolute;
+  left: 20%;
+  bottom: 46%;
+  opacity: 0;
+  text-align: left;
+}
+
+.bold-highlight {
+  font-weight: bold;
+}
+
+.bold-highlight-soil {
+  font-weight: bold;
+  color: #ac4200;
+}
+
+.bottom-margin {
+  margin-bottom: 50px;
+}
+
+.homepage .right-box {
+  padding: 40px 30px 40px 40px;
+}
+
+.homepage .left-box {
+  max-width: 100%;
+  height: auto;
+}
+
+.custom-margin {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tomatoes-img {
+  width: 224px;
+  height: 224px;
+  object-fit: contain;
+}
+
+.vegies-img {
+  width: 224px;
+  height: 224px;
+  object-fit: contain;
+}
+
+.bold-highlight-organic {
+  font-weight: bold;
+  color: #075705;
+}
+
+.bold-highlight-specials {
+  font-weight: bold;
+  color: #7cba16;
+}
+
+.bold-highlight-products {
+  font-weight: bold;
+  color: #ee7f16;
+}
+
+.banner-margin {
+  margin: 0;
+}
+
+.stretch-img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}

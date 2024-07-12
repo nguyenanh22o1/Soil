@@ -1,0 +1,93 @@
+[
+    { 
+      "id": 1,
+      "name": "Apples",
+      "salePrice": "$1.99",
+      "originalPrice": "$2.49",
+      "imageSrc": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Fruits",
+      "rating": 4
+    },
+    { 
+      "id": 2,
+      "name": "Bananas",
+      "salePrice": "$0.99",
+      "originalPrice": "$1.29",
+      "imageSrc": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Fruits",
+      "rating": 5
+    },
+    { 
+      "id": 3,
+      "name": "Carrots",
+      "salePrice": "$2.99",
+      "originalPrice": "$3.49",
+      "imageSrc": "https://images.unsplash.com/photo-1590868309235-ea34bed7bd7f?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "rating": 4
+    },
+    { 
+      "id": 4,
+      "name": "Tomatoes",
+      "salePrice": "$1.50",
+      "originalPrice": "$2.00",
+      "imageSrc": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "rating": 4.5
+    },
+    { 
+      "id": 5,
+      "name": "Oranges",
+      "salePrice": "$3.00",
+      "originalPrice": "$3.50",
+      "imageSrc": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Fruits",
+      "rating": 4.5
+    },
+    { 
+      "id": 6,
+      "name": "Spinach",
+      "salePrice": "$2.00",
+      "originalPrice": "$2.50",
+      "imageSrc": "https://images.unsplash.com/photo-1578283326173-fbb0f83b59b2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "rating": 4
+    },
+    { 
+      "id": 7,
+      "name": "Broccoli",
+      "salePrice": "$2.50",
+      "originalPrice": "$3.00",
+      "imageSrc": "https://images.unsplash.com/photo-1583663848850-46af132dc08e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "rating": 4.5
+    },
+    { 
+      "id": 8,
+      "name": "Grapes",
+      "salePrice": "$4.00",
+      "originalPrice": "$4.50",
+      "imageSrc": "https://images.unsplash.com/photo-1637715924886-cbe4485f90b9?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Fruits",
+      "rating": 5
+    },
+    { 
+      "id": 9,
+      "name": "Mangoes",
+      "salePrice": "$1.99",
+      "originalPrice": "$2.49",
+      "imageSrc": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Fruits",
+      "rating": 5
+    },
+    { 
+      "id": 10,
+      "name": "Capsicum",
+      "salePrice": "$3.49",
+      "originalPrice": "$3.99",
+      "imageSrc": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "rating": 4.5
+    }
+]
+  
